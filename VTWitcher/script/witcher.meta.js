@@ -5,7 +5,7 @@
 // @priority                9001
 // @author                  Witch King <http://forum.jogos.uol.com.br/userMessages.jbb?u=3031107026981939224>
 // @description             Arruma a porcaria do Forum UOL
-// @version                 3.0.0
+// @version                 3.0.1
 // @homepageURL             https://weetchking.github.io/
 // @require					https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
 
